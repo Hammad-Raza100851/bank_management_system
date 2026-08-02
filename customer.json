@@ -1,0 +1,38 @@
+{
+    "1": {
+        "accountNumber": "1",
+        "accountStatus": "active",
+        "accountType": "saving",
+        "balance": 49500.0,
+        "cnic": "3520212345671",
+        "email": "ali@example.com",
+        "fatherName": "Ahmed Raza",
+        "name": "Ali Raza",
+        "phoneNumber": "03001234567",
+        "pin": "1111"
+    },
+    "2": {
+        "accountNumber": "2",
+        "accountStatus": "active",
+        "accountType": "saving",
+        "balance": 700000.0,
+        "cnic": "1111111111111",
+        "email": "saad@gmail.com",
+        "fatherName": "ali",
+        "name": "saad",
+        "phoneNumber": "03266369018",
+        "pin": "1111"
+    },
+    "3": {
+        "accountNumber": "3",
+        "accountStatus": "block",
+        "accountType": "saving",
+        "balance": 0.0,
+        "cnic": "2222222222222",
+        "email": "hanzla@gmail.com",
+        "fatherName": "akhtar",
+        "name": "hanzla",
+        "phoneNumber": "03460477511",
+        "pin": "0111"
+    }
+}

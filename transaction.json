@@ -1,0 +1,26 @@
+{
+    "1": {
+        "accountNumber": "1",
+        "balanceBefore": "55000.0",
+        "currentBalance": "50000.0",
+        "transactionId": "1"
+    },
+    "2": {
+        "accountNumber": "2",
+        "balanceBefore": 950100.0,
+        "currentBalance": 900000.0,
+        "transactionId": "2"
+    },
+    "3": {
+        "accountNumber": "2",
+        "balanceBefore": 900000.0,
+        "currentBalance": 800000.0,
+        "transactionId": "3"
+    },
+    "4": {
+        "accountNumber": "2",
+        "balanceBefore": 800000.0,
+        "currentBalance": 700000.0,
+        "transactionId": "4"
+    }
+}
