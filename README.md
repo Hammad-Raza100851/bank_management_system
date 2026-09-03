@@ -1,4 +1,4 @@
-# bank_management_system
+
 # 🏦 Bank Management System
 
 A console-based **Bank Management System built with C++** using **Object-Oriented Programming (OOP)** and **JSON file handling**.
